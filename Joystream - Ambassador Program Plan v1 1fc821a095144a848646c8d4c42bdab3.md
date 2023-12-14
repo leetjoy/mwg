@@ -77,17 +77,26 @@ The ambassador program is designed to focus on quality over quantity for its ini
 
 To ensure Joystream selects the most suitable candidates while providing opportunities for channels with fewer subscribers or followers to demonstrate their potential, the following criteria have been established for selection into the ambassador program:
 
-| Twitter | YouTube | Other Platforms (e.g. TikTok, personal blog, podcast) |
-| --- | --- | --- |
-| • Account must be verified with a blue tick on the users profile 
+**Twitter / X.COM**
+
+• Account must be verified with a blue tick on the users profile 
 • Account must be at least 3 months old 
 • Must have a profile picture 
 • Have at least 3,000 followers 
-• Consistent posting schedule with at least 10 tweets per month | • Channel should be at least 3 months old 
+• Consistent posting schedule with at least 10 tweets per month
+
+**YouTube**
+
+• Channel should be at least 3 months old 
 • Have at least 500 subscribers 
-• Consistent posting schedule with at least two videos per month | • Channel should be at least 3 months old
-• Consistent posting schedule with at least two content per month |
-- *Candidates must satisfy the requirements for at least one of the two platforms – YouTube or Twitter – if they are active on both.*
+• Consistent posting schedule with at least two videos per month
+
+**Other Platforms (e.g. TikTok, personal blog, podcast)**
+
+• Channel should be at least 3 months old
+• Consistent posting schedule with at least two content per month
+
+*Candidates must satisfy the requirements for at least one of the two platforms – YouTube or Twitter – if they are active on both.*
 
 ## Candidate Video
 
