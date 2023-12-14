@@ -467,7 +467,7 @@ Ambassadors who actively engage in tasks will be rewarded with XP (Experience Po
 ### **Timeline and Milestones**
 
 - **Pre-Launch Preparation**
-    - Q4 2024.
+    - Q4 2023.
 - **Launch & Application Phase**
     - Q4 2023 - Q1 2024.
 - **Milestones**
