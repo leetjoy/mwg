@@ -324,22 +324,22 @@ This system can also be gamified further by implementing limited-timed tasks tha
 
 **XP Rewarded Tasks Examples**
 
-Have a banner image of Joystream in one of your YouTube videos
-Create a Twitter thread
-Translate content from the Joystream blog into your native language
-Voice over Joystream videos in native languages
-Create an educational video about Joystream
-Add Joystream to your Twitter bio
-Add Joystream banner to Twitter
-Repost certain posts
-Host an AMA
-Host a webinar explaining Joystream
-Collaborate with another ambassador
-Add link to Gleev on YT channel description
-Write a Blog Post
-Create Joystream-themed Graphics
-Host a Joystream-themed Contest
-Share Success Stories
+- Have a banner image of Joystream in one of your YouTube videos
+- Create a Twitter thread
+- Translate content from the Joystream blog into your native language
+- Voice over Joystream videos in native languages
+- Create an educational video about Joystream
+- Add Joystream to your Twitter bio
+- Add Joystream banner to Twitter
+- Repost certain posts
+- Host an AMA
+- Host a webinar explaining Joystream
+- Collaborate with another ambassador
+- Add link to Gleev on YT channel description
+- Write a Blog Post
+- Create Joystream-themed Graphics
+- Host a Joystream-themed Contest
+- Share Success Stories
 
 **JOY Rewarded Tasks Examples (optional)**
 
