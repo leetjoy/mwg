@@ -343,11 +343,9 @@ This system can also be gamified further by implementing limited-timed tasks tha
 
 **JOY Rewarded Tasks Examples (optional)**
 
-Make a connection that leads to a partnership
-
-Every 10 referrals
-
-Create a dApp within the Joystream ecosystem
+- Make a connection that leads to a partnership
+- Every 10 referrals
+- Create a dApp within the Joystream ecosystem
 
 ### **Task Rewards and Evaluation Criteria**
 
