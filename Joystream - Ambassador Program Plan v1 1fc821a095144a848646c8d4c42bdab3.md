@@ -1,4 +1,4 @@
-# Joystream - Ambassador Program Plan v1
+# Joystream Ambassador Program Plan v1
 
 ![ambassadorts.png](Joystream%20-%20Ambassador%20Program%20Plan%20v1%201fc821a095144a848646c8d4c42bdab3/ambassadorts.png)
 
