@@ -26,14 +26,16 @@ Elected Council:
 | --- | --- | --- |
 | Starting budget | 208,599.785 | 208,599.785 |
 | Budget update | 700,000 | 700,000 |
-| End Term budget | 49,127.075 | _ |
+| End Term budget | 49,127.075 | 343,182.33 |
 | Total Spending | 1,081,385 | _ |
+
+*221,912.29 JOY was deposited to the MWG budget from Marketing Reserve. TX: https://joystream.subscan.io/extrinsic/11043328-1
+**Proposal [1054](https://pioneerapp.xyz/#/proposals/preview/1054) - Orders were cancelled 24 hours before Term 41 end. 2,900,000 JOY deposited back to the council budget
 
 Below are assets that are currently under MWG management:
 
-- Marketing Reserve - 221,912.29 JOY was deposited to the MWG budget. TX: https://joystream.subscan.io/extrinsic/11043328-1
-- Proposal [1054](https://pioneerapp.xyz/#/proposals/preview/1054) - Orders were cancelled 24 hours before Term 41 end. 2,900,000 JOY deposited back to the council budget and 800 USDT (kept in MWG budget until council 42)
-- DAO VCC - 1,005.46 USDT (315 USDT spent on updating DEX Screener token info and 70 USDT were spent for promoting X spaces)
+- **Proposal [1054](https://pioneerapp.xyz/#/proposals/preview/1054): 100,000 JOY were sold at 0.008$ and 800 USDT kept in MWG budget until council 42 instructions.
+- DAO VCC - 1,005.46 USDT (315 USDT spent on updating DEX Screener token info and 70 USDT were spent for promoting X spaces).
 
 *Worker rewards:*
 
