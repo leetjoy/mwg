@@ -58,20 +58,16 @@ Caiaphasagoo	13000	130000000000000	Ambassador reward for Caiaphasagoo. DEC1-30, 
 
 ## **3. Group Tasks**
 
-    Ambassador program management
-    Social media management
-    CMC communities campaign
-    JoystreamERC20: new listings, promotion & wallet integrations
-    Creator growth campaign (target audience - Spanish creators)
-    X SPACES (2024 recap and discussion)
-    Outreach
-
 *🟢* [Ambassador program](https://www.notion.so/Ambassador-Program-9624e4d2c766463a8ae8bf1cfe9792c7?pvs=21) management
 
 *🟡* [Social media content management](https://www.notion.so/Social-media-content-management-3a0d34684838453a98d22e390ca17c35?pvs=21)
 
 *🟢* [CMC communities campaign](https://www.notion.so/CMC-Communities-Campaign-5724846553944bd58fab9c647717b07d?pvs=21)
 
-*🟢* JoystreamERC20: new listings, promotion & wallet integrations
+*🟢* JoystreamERC20: new listings, promotion & wallet integrations - token info on DEX Screener was updated https://dexscreener.com/base/0xddbc56322277d3b116643470fb9c7c3b1b47b739
 
-*🟡* R&D: Region-based campaigns & Paid marketing campaigns
+*🟢* X SPACES (2024 Recap and discussion) - spaces were hosted on January 2024 - https://x.com/JoystreamDAO/status/1877685971728146811
+
+*🟢* Creator growth campaign (target audience - Spanish creators) - Sonti https://youtu.be/FANpe6h45fU?si=a4MfgK9b9fctPRFe / Ismapleitos uploaded: https://www.youtube.com/watch?v=4IFGmF53534 / huevitoshinno (not yet posted) https://drive.google.com/file/d/1AsdBmASTZOuHvzx878dG-N7zeqbmABQf/view?usp=sharing / +5 other creators are in the process of doing videos. 
+
+## **4. Extra Items**
